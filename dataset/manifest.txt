@@ -1,0 +1,7 @@
+Resume: 100 PDFs
+Invoice: 100 PDFs
+Certificate: 100 PDFs
+ID_Document: 100 PDFs
+Report: 100 PDFs
+Other: 100 PDFs
+Total: 600 PDFs
